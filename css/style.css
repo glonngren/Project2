@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box; 
+}
+header {
+  background-color: #FE4B74;
+}
+header ul {
+  display: inline;
+}
+header ul li {
+  position: relative;
+  display: inline;
+}
+header ul li a {
+  text-decoration-line:none;
+  color: white;
+}
+nav {
+  width: 100%;
+  float: right;
+  background-color: #FE4B74;
+}
+nav a:hover {
+  text-decoration-line: none;
+  background-color: #feb236;
+}
+h1 {
+  font-size: 3em;
+  display: table;
+  color: white;
+  font-weight: 300;
+}
+body {
+  margin: 0;
+  font-family: 'HelveticaNeue';
+  background-color: #373B44;
+}
+section {
+  width: 100%;
+  padding: 0 5%;
+  display: table;
+  color: white;
+  margin: 5px;
+}
+a {
+  float: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20pt;
+  padding: 15px 15px 15px 15px;
+}
+a:active {
+    background-color: #feb236;
+}
+p {
+  font-size: 1.5em;
+  color: #C3CAD9;
+  margin-left: auto;
+  margin-right: auto;
+}
+.intro {
+  font-family: 'Roboto Slab', serif;
+  color: white;
+}
+.description-skills {
+  font-family: 'Roboto Slab', serif;
+  font-size: 15pt;  
+}
+.divider {
+  background-color: #a2b9bc;
+  color: white;
+}
+.description {
+  font-family: 'Roboto Slab', serif;
+}
+.aboutme {
+  font-family: 'Roboto Slab', serif;
+  color: #feb236;
+}
+.volunteer {
+  font-family: 'Roboto Slab', serif;
+  color: #87bdd8	
+}
+.project {
+  font-family: 'Roboto Slab', serif;
+  color: #f1e3dd
+}
+.projects {
+  font-family: 'Roboto Slab', serif;
+  color: #f1e3dd
+}
+.interests {
+  font-family: 'Roboto Slab', serif;
+  font-size: 15pt;
+}
+
+
