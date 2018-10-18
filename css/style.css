@@ -48,9 +48,6 @@ a {
   font-size: 20pt;
   padding: 15px 15px 15px 15px;
 }
-a:active {
-    background-color: #feb236;
-}
 p {
   font-size: 1.5em;
   color: #C3CAD9;
