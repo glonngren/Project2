@@ -56,13 +56,9 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
-header,nav, section {
-	display: block;
-}
 .intro {
   font-family: 'Roboto Slab', serif;
   color: white;
-  
 }
 .description-skills {
   font-family: 'Roboto Slab', serif;
