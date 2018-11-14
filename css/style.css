@@ -12,12 +12,15 @@ header ul li {
   display: inline;
 }
 header ul li a {
+
   text-decoration-line:none;
   color: white;
 }
 nav {
+  float: none;
+  text-align: center; 
+  align-content:center;
   width: 100%;
-  float: right;
   background-color: #FE4B74;
 }
 nav a:hover {
@@ -43,7 +46,6 @@ section {
   margin: 5px;
 }
 a {
-  float: right;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20pt;
   padding: 15px 15px 15px 15px;
@@ -53,6 +55,9 @@ p {
   color: #C3CAD9;
   margin-left: auto;
   margin-right: auto;
+}
+header,nav, section {
+	display: block;
 }
 .intro {
   font-family: 'Roboto Slab', serif;
