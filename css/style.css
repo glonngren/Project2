@@ -57,7 +57,10 @@ p {
   margin-right: auto;
 }
 img {
-	float: left;
+  float: left;
+}
+iframe {
+  float: left;
 }
 .intro {
   font-family: 'Roboto Slab', serif;
