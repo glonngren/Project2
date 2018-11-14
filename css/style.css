@@ -2,6 +2,7 @@
   box-sizing: border-box; 
 }
 header {
+  padding: 15px 15px 15px 15px;
   background-color: #FE4B74;
 }
 header ul {
@@ -12,7 +13,6 @@ header ul li {
   display: inline;
 }
 header ul li a {
-
   text-decoration-line:none;
   color: white;
 }
