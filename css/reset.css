@@ -1,13 +1,6 @@
 html, body, div,
 h1, h2, h3, h4, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tr, th, td,
-footer, header, hgroup, menu, nav, section {
-    margin:0;
-    padding:0;
-    border:0;
-    outline:0;
-    font-size:100%;
+header, nav, section {
     vertical-align:baseline;
     background:transparent;
 }
@@ -21,8 +14,6 @@ nav ul {
     list-style:none;
 }
 a {
-    margin:0;
-    padding:0;
     font-size:100%;
     vertical-align:baseline;
     background:transparent;
