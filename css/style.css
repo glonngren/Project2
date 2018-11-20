@@ -62,12 +62,14 @@ img {
 }
 iframe {
   float: center;
+  height: 550px;
+  width: 75%;
 }
 #map {
-  height: 200px;
+  height: 400px;
   width: 100%;
   font-size: 20px;
-  text-align: center;
+  float: center;
 }
 .intro {
   font-family: 'Roboto Slab', serif;
