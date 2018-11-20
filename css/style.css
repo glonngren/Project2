@@ -55,12 +55,19 @@ p {
   color: #C3CAD9;
   margin-left: auto;
   margin-right: auto;
+  float: center;
 }
 img {
   float: left;
 }
 iframe {
   float: left;
+}
+#map {
+  height: 200px;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
 }
 .intro {
   font-family: 'Roboto Slab', serif;
@@ -80,10 +87,11 @@ iframe {
 .aboutme {
   font-family: 'Roboto Slab', serif;
   color: #feb236;
+  float: center
 }
 .volunteer {
   font-family: 'Roboto Slab', serif;
-  color: #87bdd8	
+  color: #87bdd8 
 }
 .interests {
   font-family: 'Roboto Slab', serif;
