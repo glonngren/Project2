@@ -58,10 +58,10 @@ p {
   float: center;
 }
 img {
-  float: left;
+  float: center;
 }
 iframe {
-  float: left;
+  float: center;
 }
 #map {
   height: 200px;
@@ -87,7 +87,7 @@ iframe {
 .aboutme {
   font-family: 'Roboto Slab', serif;
   color: #feb236;
-  float: center
+  text-align: center;
 }
 .volunteer {
   font-family: 'Roboto Slab', serif;
@@ -96,6 +96,7 @@ iframe {
 .interests {
   font-family: 'Roboto Slab', serif;
   font-size: 15pt;
+  float: center;
 }
 
 
